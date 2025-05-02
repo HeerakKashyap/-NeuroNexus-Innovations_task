@@ -33,6 +33,11 @@ Deployment: Model serialization with joblib
 
 ![image](https://github.com/user-attachments/assets/8d040a7e-a463-47e2-b758-3a5be9af63ac)
 
+👤 Contact
+For questions or suggestions, please contact kashyapheerk@gmail.com.
+
+Inspired by classic data science tutorials and the Kaggle Titanic competition.
+
 📚 References :
 
 Kaggle Titanic: Machine Learning from Disaster
